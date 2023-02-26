@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KianChavoshiNejad
-- 👀 I’m interested in Software Development and Videogame Programming
-- 🌱 I’m currently learning Swift
+
 
 
 <!---
