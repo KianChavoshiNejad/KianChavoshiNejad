@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KianChavoshiNejad
-- 🎓 I am currently studying in University of Houston
 
 
 <!---
